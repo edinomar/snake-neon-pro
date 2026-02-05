@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.edinomar.snakeneonpro",
+  "appName": "Snake Neon Pro",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
